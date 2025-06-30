@@ -1,1 +1,0 @@
-export default function Parts() { return <h2>Parts Catalog Page</h2>; }
