@@ -1,0 +1,1 @@
+export default function WorkRequests() { return <h2>Work Requests Page</h2>; }
